@@ -1,0 +1,14 @@
+mayor cantidad de productos por mes
+menor cantidad de productos por mes
+cual es el mes con mas ventas
+cual es el mes con menos ventas
+cual es el mes con mas demanda
+cual es el mes con menos demanda
+cual es el mes que compre menos
+
+
+
+
+cual es el minimo de stock que he tenido en el año
+cual es el valor maximo de mi stock
+cual es el mes que compre más productos

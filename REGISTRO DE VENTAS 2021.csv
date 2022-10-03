@@ -1,0 +1,64 @@
+NOMBRE,MES, ENTRADA ,CIUDAD,PRODUCTO1,CANTIDAD1,PRODUCTO2,CANTIDAD2,PRODUCTO3,CANTIDAD3,PRODUCTO4,CANTIDAD4
+Juan Jose Xochihua Garcia,Enero," $3,445.20 ",Cd. Mexico,PA,90,0,0,0,0,0,0
+Rafael Acosta,Enero  ," $4,234.00 ","Piedras Negras, Coah",PA,90,AP,5,0,0,0,0
+Ana Karina Zaldivar,Enero," $3,886.00 ",Cd. Mexico,PA,90,0,0,0,0,0,0
+Maricela Hernandez Robles,Enero," $16,019.60 ",Monterrey,PA,450,0,0,0,0,0,0
+Ma. Dolores Mogica Martinez,Enero," $1,634.40 ",Cd. Mexico,P1,300,AP,3,0,0,0,0
+Carlos G. Zuniga Lagunes,Febrero," $3,598.10 ","Tijuana, BC",PlA,100,PlP,50,0,0,0,0
+Fernando Ito Tsuchiya,Febrero," $2,163.40 ","Puebla, Publa",PP,45,0,0,0,0,0,0
+Hannia Matt Hernandez,Febrero," $3,697.20 ","Reynosa, Tamaulipas",PP,90,0,0,0,0,0,0
+Ruth Cerino Javier,Febrero," $5,046.00 ","Villahermosa, Tabasco",BG,100,0,0,0,0,0,0
+Jazmin Chavez renteria,Febrero, $-   ,"Puerto Vallarta, Jalisco",0,0,0,0,0,0,0,0
+Christopher Alonso Llanes,Febrero, $-   ,"Guasave, Sinaloa",0,0,0,0,0,0,0,0
+Cynthia Martinez Martinez,Febrero, $-   ,"Torreon, Coah",0,0,0,0,0,0,0,0
+Ana Karina Zaldivar,Febrero," $4,524.00 ",Cd. Mexico,PA,90,DM,1,0,0,0,0
+Jesus Enrique Reyes Ramos,Febrero," $4,651.60 ","Culiacan, Sinaloa",B,200,0,0,0,0,0,0
+Francisco Javier Mendoza Espinoza,Febrero," $2,755.00 ","Leon, Guanajuato",BG,50,0,0,0,0,0,0
+Jorge E. Macias Garza,Marzo, $-   ,MONCLOVA,0,0,0,0,0,0,0,0
+Catalina Espino Rodriguez,Marzo," $2,697.00 ","Saltillo, Coahuila",BG,50,0,0,0,0,0,0
+Julio Cesar Ulloa,Marzo," $4,511.24 ","Saltillo, Coahuila",PlP,100,PlA,100,0,0,0,0
+Lia Emire Trujillo Palma,Marzo," $7,331.20 ","Merida, Yucatan",PP,180,0,0,0,0,0,0
+Ma. Teresa Burguete Cabanas,Marzo," $16,077.60 ","San, Pedro Garza Garcia",PA,450,0,0,0,0,0,0
+Jonathan H. Payan Diaz,Marzo," $3,025.28 ","Nuevo Laredo, Tam.",P1,100,BG,50,0,0,0,0
+Argentina Rodriguez Casas,Marzo, $-   ,MONCLOVA,0,0,0,0,0,0,0,0
+Fco. Javier Valenzuela Solano,Marzo," $4,988.00 ","Tijuana, BC",BG,100,0,0,0,0,0,0
+Rosalba Vargas Rodriguez,Abril," $3,497.40 ","Zapopan, Jalisco",PP,90,0,0,0,0,0,0
+Rodrigo Collado Chagoya,Abril," $2,163.40 ",Edo. Mexico,PA,45,0,0,0,0,0,0
+Ma. Isaura Sandoval Ugalde,Abril," $5,608.60 ",Edo. Mexico,PP,45,PA,90,0,0,0,0
+Lissette Ramos Valencia,Abril," $11,147.60 ","Morelia, Mich.",PA,270,AP,7,0,0,0,0
+Karen Gpe Rodriguez Galvan,Abril," $4,214.28 ",Cd. Mexico,PP,90,P1,100,AP,2,0,0
+Ana Karina Zaldivar,Abril," $4,083.20 ",Cd. Mexico,PA,90,0,0,0,0,0,0
+Julia Irene Mendez Leon,Abril," $5,559.88 ",Cd. Mexico,AP,25,BG,50,PlA,50,0,0
+Carlos G. Zuniga Lagunes,Abril," $7,178.08 ","Tijuana, BC",PlA,300,0,0,0,0,0,0
+David Navarro Cruz,Abril," $5,608.60 ","Salamanca, Gto",PA,90,PP,45,0,0,0,0
+Rafael Acosta,Abril," $3,886.00 ","Piedras Negras, Coah",PA,90,0,0,0,0,0,0
+Jesus Enrique Reyes Ramos,Abril," $4,651.60 ","Culiacan, Sinaloa",B,200,0,0,0,0,0,0
+Catalina Espino Rodriguez,Mayo," $3,749.70 ","Saltillo, Coahuila",BG,50,B,50,0,0,0,0
+Maydeli Santamaria ,Mayo," $3,903.40 ",Cd. Mexico,BG,50,PF,2,0,0,0,0
+Adriana Saucedo,Mayo," $2,163.40 ",Cd. Mexico,PA,45,0,0,0,0,0,0
+Cynthia Martinez Martinez,Mayo," $5,249.00 ","Torreon, Coah",BG,50,PP,25,PA,29,CH,2
+Fabian Alvarez ,Mayo," $3,375.60 ",Sonora,PP,45,P1,100,CH,1,DM,1
+Lissette Ramos Valencia,Mayo," $11,008.40 ",Michoacan,PA,324,AP,3,0,0,0,0
+Adriana Saucedo,Junio," $3,386.00 ",Cd. Mexico,PA,108,0,0,0,0,0,0
+Argentina Rodriguez Casas,Junio," $2,929.00 ",Monterrey,P1,200,PlA,50,CH,1,PCH,1
+Hannia Matt Hernandez,Junio," $3,967.20 ",tamaulipas,PP,108,0,0,0,0,0,0
+Rodrigo Padilla Padilla,Junio," $3,851.20 ",jalisco,PA,108,0,0,0,0,0,0
+Lia Emire Trujillo Palma,Junio," $7,354.40 ",yucatan,PP,216,0,0,0,0,0,0
+Jose Flores Flores,Junio," $3,851.20 ",Edo. Mexico,PP,18,PA,90,0,0,0,0
+Gisela Mondragon,Junio," $3,851.20 ",queretaro,PP,108,0,0,0,0,0,0
+Jesus Enrique Reyes Ramos,Junio," $4,651.60 ",sinaloa,B,200,0,0,0,0,0,0
+Marisol Trevino,Junio," $7,035.40 ",Monterrey,PP,80,PA,10,P1,500,CH,2
+Isabel Arias ,Junio," $2,128.60 ",queretaro,PF,3,0,0,0,0,0,0
+Lucero Juarez,julio," $2,511.40 ",mexico,B,100,0,0,0,0,0,0
+Argentina Rodriguez Casas,julio," $1,521.92 ",Monterrey,PP,9,CH,1,0,0,0,0
+Lizette Montejano Elias,julio, $904.80 ,jalisco,AP,8,0,0,0,0,0,0
+Jazmin Chavez renteria,julio," $6,786.00 ","Puerto Vallarta, Jalisco",PA,45,PP,90,CH,1,DM,1
+Maria Antonia Rivera Gomez,julio," $5,573.80 ",Pachuca,PA,135,0,0,0,0,0,0
+Carlos David Lopez,julio," $3,812.34 ",sonora,PP,45,PlP,50,CH,1,0,0
+Juana Maria Torres Aguilar,julio," $3,851.20 ",jalisco,PP,90,0,0,0,0,0,0
+Virginia Yanez,julio, $696.00 ,CDMX,AP,5,0,0,0,0,0,0
+Gonzalo Couto Avilez,julio," $4,222.00 ",BCS,PlA,200,0,0,0,0,0,0
+Alejandro Cano Verdugo,julio," $3,212.62 ",Monterrey,PlA,50,PlP,50,CH,1,0,0
+Catalina Espino Rodriguez,julio," $2,639.00 ","Saltillo, Coahuila",BG,50,0,0,0,0,0,0
+Hannia Matt Hernandez,julio," $3,967.20 ","Reynosa, Tamaulipas",PP,90,0,0,0,0,0,0
+Marco Aurelio Vidales,julio," $5,057.60 ","Reynosa, Tamaulipas",BG,100,AP,1,0,0,0,0
